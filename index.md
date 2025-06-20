@@ -5,7 +5,7 @@ title: Мой мод
 # Главная страница
 **Здесь вы можете найти моды для Spore на любой вкус и цвет от автора BelogvardeeX**
 ### Моды:
-- ## [Archetype Overhaul(RU)](https://github.com/belogvardeec-belich/spore-mods/raw/main/mods/!!!ArchetypeOverhaul_RU.package
+- ## [Archetype Overhaul(RU)](https://github.com/belogvardeec-belich/spore-mods/raw/main/mods/!!!ArchetypeOverhaul_RU.package)
   *скриншот отсутствует*
   Данный мод изменяет названия архетипов(философий), на более реалистичные, близкие к реальным прототипам. К примеру:
   - Воин -> Фашизм
