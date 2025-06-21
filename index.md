@@ -7,6 +7,7 @@ title: Мой мод
 ### Моды:
 - ## [Archetype Overhaul(RU)](https://github.com/belogvardeec-belich/spore-mods/raw/main/mods/!!!ArchetypeOverhaul_RU.package)
   ![Скриншот](capitalism.png)
+
   Данный мод изменяет названия архетипов(философий), на более реалистичные, близкие к реальным прототипам. К примеру:
   - Воин -> Фашизм
   - Шаман -> Социализм/коммунизм
